@@ -1,8 +1,12 @@
+i
 # local package
 -e .
 
 # external requirements
 numpy
+scikit-learn
+matplotlib
+seaborn
 pandas
 click
 Sphinx
